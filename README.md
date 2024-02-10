@@ -1,2 +1,17 @@
 # PL2024
-Projects developed in the scope of the Language Processing class in University of Minho (3rd year, 2nd semester).
+
+UC do 3º Ano de Engenharia Informática na Universidade do Minho
+
+Processamento de Linguagens
+
+## Aluno
+
+**Nome:** Diogo Pinto Araujo 
+
+**Número:** a100544
+
+**Email:** a100544@alunos.uminho.pt
+
+**Fotografia:**
+
+ ![Foto](img.png)

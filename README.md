@@ -6,7 +6,7 @@ Processamento de Linguagens
 
 ## Aluno
 
-**Nome:** Diogo Pinto Araujo 
+**Nome:** Diogo Pinto Araújo 
 
 **Número:** a100544
 

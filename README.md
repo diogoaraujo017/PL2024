@@ -14,4 +14,4 @@ Processamento de Linguagens
 
 **Fotografia:**
 
- ![Foto](img.png)
+ ![Foto](img.jfif)

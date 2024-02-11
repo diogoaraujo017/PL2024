@@ -22,9 +22,11 @@ Modalidades:
 
 Atletas aptos: 54.0% (162) 
 
-Atletas nao aptos: 46.0% (138) 
+Atletas inaptos: 46.0% (138) 
 
 ------------------------------------------------
+
+Escaloes: 
 
 [20-24] : 
 
@@ -109,7 +111,7 @@ Atletas nao aptos: 46.0% (138)
 -> Virginia Mcdowell / SCBraga
 -> Young Estes / EDViana
 
-Numero de atletas nesta faixa etaria: 80
+Numero de atletas neste escalao: 80
 
 
 [25-29] : 
@@ -217,7 +219,7 @@ Numero de atletas nesta faixa etaria: 80
 -> Watson Robles / SCBraga
 -> Wilson Tucker / EDViana
 
-Numero de atletas nesta faixa etaria: 102
+Numero de atletas neste escalao: 102
 
 
 [30-34] : 
@@ -327,7 +329,7 @@ Numero de atletas nesta faixa etaria: 102
 -> Wiley Stark / EDViana
 -> Woodard Rhodes / ABCbraga
 
-Numero de atletas nesta faixa etaria: 104
+Numero de atletas neste escalao: 104
 
 
 [35-39] : 
@@ -347,7 +349,7 @@ Numero de atletas nesta faixa etaria: 104
 -> Tanisha Castro / ACDRcrespos
 -> Vang George / AVCfamalicão
 
-Numero de atletas nesta faixa etaria: 14
+Numero de atletas neste escalao: 14
 
 
 ------------------------------------------------

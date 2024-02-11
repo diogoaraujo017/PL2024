@@ -89,7 +89,7 @@ results.write("\n\n")
 results.write(f"Atletas aptos: {str(aptPercentage)}% ({totalApt}) ")
 results.write("\n\n")
 
-results.write(f"Atletas nao aptos: {str(nonAptPercentage)}% ({totalNonApt}) ")
+results.write(f"Atletas inaptos: {str(nonAptPercentage)}% ({totalNonApt}) ")
 results.write("\n\n")
 
 results.write("------------------------------------------------")
@@ -97,6 +97,9 @@ results.write("\n\n")
 
 
 # Writing the athletes age window
+
+results.write("Escaloes: ")
+results.write("\n\n")
 
 start = 0
 end = 0
@@ -130,7 +133,7 @@ for start in range(0, idadeMaisAlta+1,5):
             results.write("\n")
         
         results.write("\n")
-        results.write(f"Numero de atletas nesta faixa etaria: {len(auxList)}")     
+        results.write(f"Numero de atletas neste escalao: {len(auxList)}")     
             
         results.write("\n\n\n")    
         

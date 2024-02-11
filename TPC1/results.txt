@@ -1,0 +1,353 @@
+------------------------------------------------
+
+Modalidades: 
+
+-> Andebol 
+-> Atletismo 
+-> BTT 
+-> Badminton 
+-> Basquetebol 
+-> Ciclismo 
+-> Dança 
+-> Equitação 
+-> Esgrima 
+-> Futebol 
+-> Karaté 
+-> Orientação 
+-> Parapente 
+-> Patinagem 
+-> Triatlo 
+
+------------------------------------------------
+
+Atletas aptos: 54.0% (162) 
+
+Atletas nao aptos: 46.0% (138) 
+
+------------------------------------------------
+
+[20-24] : 
+
+-> Annabelle Duffy / AmigosMontanha
+-> Ashlee Beard / AVCfamalicão
+-> Ayers Lara / Vitoria
+-> Bell Zimmerman / ABCbraga
+-> Bianca Prince / EDViana
+-> Blackburn Price / ACRroriz
+-> Bowers Conrad / ABCbraga
+-> Brigitte Yates / AVCfamalicão
+-> Burch Navarro / Vitoria
+-> Cantrell Santos / ACRroriz
+-> Carmella Shaw / SCBraga
+-> Castaneda Kennedy / Vitoria
+-> Chandra Edwards / ABCbraga
+-> Cheryl Berger / Vitoria
+-> Combs Rollins / ACRroriz
+-> Cunningham Curry / ABCbraga
+-> Donna Blevins / GDGoma
+-> Elliott Vaughan / GDGoma
+-> Farrell Gilliam / AVCfamalicão
+-> Faulkner Baird / AVCfamalicão
+-> Flynn York / Vitoria
+-> Foley Pollard / ACRroriz
+-> Frazier Aguilar / ACRroriz
+-> Freeman Diaz / ABCbraga
+-> Haley Estes / AmigosMontanha
+-> Harding Hudson / AmigosMontanha
+-> Holcomb Mathis / ACDRcrespos
+-> Hollie Solis / Vitoria
+-> Hunter Russo / AmigosMontanha
+-> Jacqueline Love / ACDRcrespos
+-> Jeanie Cantrell / EDViana
+-> Joanne Wise / ABCbraga
+-> Kate Woods / ACRroriz
+-> Kathie Preston / AmigosMontanha
+-> Kent Tyler / ACRroriz
+-> Kramer Mcclure / ABCbraga
+-> Kristen Goodwin / GDGoma
+-> Kristen Jacobs / AVCfamalicão
+-> Kristina Brock / EDViana
+-> Leanne Barron / ABCbraga
+-> Lela Chan / SCBraga
+-> Lester Strong / GDGoma
+-> Leticia Pena / SCBraga
+-> Levine Sampson / Vitoria
+-> Lindsay Thompson / GDGoma
+-> Lisa Ford / AmigosMontanha
+-> Lula Whitaker / SCBraga
+-> Mabel Faulkner / GDGoma
+-> Marci Summers / SCBraga
+-> Mari Collier / EDViana
+-> Marla Kelley / AmigosMontanha
+-> Marsh Jenkins / ACDRcrespos
+-> Maynard Erickson / Vitoria
+-> Mcdonald Bender / AmigosMontanha
+-> Mcknight Price / Vitoria
+-> Milagros Osborn / GDGoma
+-> Myrna Guerrero / Vitoria
+-> Newton Zamora / AVCfamalicão
+-> Nikki Calderon / EDViana
+-> Nunez Guy / SCBraga
+-> Osborne Cox / ACDRcrespos
+-> Pacheco Robbins / EDViana
+-> Ratliff Medina / GDGoma
+-> Rhea Patel / Vitoria
+-> Robbie Bailey / AmigosMontanha
+-> Rosalind Michael / ACDRcrespos
+-> Schmidt Hopper / SCBraga
+-> Silvia Ayala / ABCbraga
+-> Skinner Mcintosh / AmigosMontanha
+-> Sofia Todd / ABCbraga
+-> Stacey Mills / ACDRcrespos
+-> Stewart Pugh / SCBraga
+-> Summer Spencer / ACRroriz
+-> Tamera Pierce / AmigosMontanha
+-> Tami Briggs / SCBraga
+-> Trujillo Burke / AVCfamalicão
+-> Velasquez Barber / AVCfamalicão
+-> Villarreal Walton / AmigosMontanha
+-> Virginia Mcdowell / SCBraga
+-> Young Estes / EDViana
+
+Numero de atletas nesta faixa etaria: 80
+
+
+[25-29] : 
+
+-> Alston Richardson / ACDRcrespos
+-> Alyssa Melendez / ACRroriz
+-> Amalia Flynn / ACDRcrespos
+-> Andrea Hensley / SCBraga
+-> Anna May / ACDRcrespos
+-> Ashley Rivers / ACRroriz
+-> Avis Craft / ACDRcrespos
+-> Banks Anderson / SCBraga
+-> Banks Lyons / AVCfamalicão
+-> Bernice Bartlett / ABCbraga
+-> Blevins Davenport / Vitoria
+-> Blevins Frost / EDViana
+-> Boyle Lancaster / ACDRcrespos
+-> Brooks Gamble / AVCfamalicão
+-> Burton Singleton / AmigosMontanha
+-> Carmella Lindsay / ACDRcrespos
+-> Celia Rogers / AmigosMontanha
+-> Charles Bowman / AmigosMontanha
+-> Chase Chang / Vitoria
+-> Chrystal Poole / ACDRcrespos
+-> Curtis Curtis / AmigosMontanha
+-> Daniel Mccormick / EDViana
+-> Dawson Mayo / ACDRcrespos
+-> Deanne Stone / AVCfamalicão
+-> Decker Allen / AmigosMontanha
+-> Delgado Gay / ACRroriz
+-> Dixon Henry / ABCbraga
+-> Douglas Gay / GDGoma
+-> Elisa Bernard / EDViana
+-> Evelyn Grant / GDGoma
+-> Foreman Tran / ABCbraga
+-> Foster Randolph / SCBraga
+-> Fox Williams / SCBraga
+-> Frank Schwartz / GDGoma
+-> Gaines Owens / ACDRcrespos
+-> Gilbert Harrison / ABCbraga
+-> Gill Fitzpatrick / Vitoria
+-> Glenn Best / AVCfamalicão
+-> Goldie Mcgee / AVCfamalicão
+-> Graciela Carney / AmigosMontanha
+-> Graves Goff / AVCfamalicão
+-> Hester Johnston / ACRroriz
+-> Hood Burks / ACRroriz
+-> House Murphy / SCBraga
+-> Isabella Dickson / ACRroriz
+-> Isabella Howell / AVCfamalicão
+-> Ivy Sandoval / ACRroriz
+-> Jacobs Carroll / AVCfamalicão
+-> Jennifer Morris / AmigosMontanha
+-> Josefa Valencia / AmigosMontanha
+-> Joseph Schmidt / ACDRcrespos
+-> Julianne Powell / ACRroriz
+-> Karla Marsh / ACRroriz
+-> Kathryn Maddox / ABCbraga
+-> Kristi Melton / ABCbraga
+-> Langley Mcbride / AVCfamalicão
+-> Latisha Cantrell / ACRroriz
+-> Le Blair / EDViana
+-> Lena Lynch / AVCfamalicão
+-> Leon Schmidt / EDViana
+-> Letitia Dean / EDViana
+-> Lily Marks / ACDRcrespos
+-> Livingston Thomas / ACDRcrespos
+-> Logan Kane / AVCfamalicão
+-> Lora Ward / Vitoria
+-> Lott Robertson / SCBraga
+-> Madeleine Gould / ABCbraga
+-> Maria Mcfadden / Vitoria
+-> Marie Craft / GDGoma
+-> Maritza Kaufman / ACRroriz
+-> Martha Hyde / Vitoria
+-> Maryann Workman / ACRroriz
+-> Mathis Miller / EDViana
+-> Mckay Bolton / ACDRcrespos
+-> Miranda Powers / ACDRcrespos
+-> Nadine Nixon / GDGoma
+-> Nielsen Tanner / SCBraga
+-> Nola Wade / EDViana
+-> Pate Davis / GDGoma
+-> Patti Osborne / ACDRcrespos
+-> Randall Nichols / EDViana
+-> Reva Kirk / EDViana
+-> Roberta Joseph / AmigosMontanha
+-> Roberta Montoya / Vitoria
+-> Rojas Bray / SCBraga
+-> Samantha Romero / Vitoria
+-> Shepard Stevens / EDViana
+-> Shields Bean / Vitoria
+-> Simmons Conway / ACDRcrespos
+-> Stanton Barrera / GDGoma
+-> Stephenson Cooke / SCBraga
+-> Stevenson Perkins / ACDRcrespos
+-> Tammy Maddox / Vitoria
+-> Tania Sargent / AVCfamalicão
+-> Tanya Ballard / ABCbraga
+-> Torres Pittman / ACRroriz
+-> Valentine Sellers / EDViana
+-> Vaughan Herman / Vitoria
+-> Vera Scott / AmigosMontanha
+-> Walker Wooten / GDGoma
+-> Watson Robles / SCBraga
+-> Wilson Tucker / EDViana
+
+Numero de atletas nesta faixa etaria: 102
+
+
+[30-34] : 
+
+-> Agnes Graham / ABCbraga
+-> Aisha Riddle / EDViana
+-> Albert Sweeney / GDGoma
+-> Alberta Talley / ABCbraga
+-> Allen Moon / ACDRcrespos
+-> Ana Sharpe / AmigosMontanha
+-> Anne Petty / SCBraga
+-> Banks Guerra / SCBraga
+-> Barr Bell / AVCfamalicão
+-> Bishop Valentine / AmigosMontanha
+-> Brock Peterson / AmigosMontanha
+-> Burt Wright / ACRroriz
+-> Callie Wynn / GDGoma
+-> Cassie Kirk / ACDRcrespos
+-> Castro Weber / EDViana
+-> Christa Norris / ACRroriz
+-> Christina Hurley / ACDRcrespos
+-> Crawford Kelley / AmigosMontanha
+-> Dalton Chaney / ACDRcrespos
+-> Deana Franco / EDViana
+-> Deann Vargas / ACDRcrespos
+-> Deirdre Higgins / SCBraga
+-> Dolores Williams / Vitoria
+-> Elena Mcneil / Vitoria
+-> Elma Estrada / EDViana
+-> Emilia Rosales / ACRroriz
+-> Emily Webb / ACDRcrespos
+-> Esmeralda Young / ACDRcrespos
+-> Eunice Hunter / ACDRcrespos
+-> Eve Kline / ACDRcrespos
+-> Faith Wells / EDViana
+-> Fields Colon / Vitoria
+-> Foreman Prince / ACDRcrespos
+-> Fowler Madden / AVCfamalicão
+-> Francis Moran / SCBraga
+-> Freda Wooten / GDGoma
+-> Freida Mcneil / SCBraga
+-> Frieda Hansen / GDGoma
+-> Frost Dejesus / Vitoria
+-> Garner Reid / ACRroriz
+-> Garrison Evans / ABCbraga
+-> Geneva Barker / AmigosMontanha
+-> Haley Washington / ACRroriz
+-> Helen Pruitt / AmigosMontanha
+-> Herrera Wilder / SCBraga
+-> Hurley Kaufman / ACDRcrespos
+-> Ina Robles / AmigosMontanha
+-> Jackie Garrison / ACDRcrespos
+-> Jennie Hawkins / ABCbraga
+-> Jessie Dyer / Vitoria
+-> Jewel Wagner / ACRroriz
+-> Joann Barnes / Vitoria
+-> Jody Hart / ACRroriz
+-> Justice Bryan / ACDRcrespos
+-> Karen Blanchard / GDGoma
+-> Kramer Acosta / ABCbraga
+-> Landry Kidd / Vitoria
+-> Lang Farmer / ABCbraga
+-> Larsen Miles / EDViana
+-> Latonya Lee / ACRroriz
+-> Laverne Hays / ACRroriz
+-> Lawrence Hahn / AVCfamalicão
+-> Lela Barnes / EDViana
+-> Lilian Levine / EDViana
+-> Liza Webb / SCBraga
+-> Louise Weeks / SCBraga
+-> Madge Daugherty / GDGoma
+-> Maldonado Jefferson / EDViana
+-> May French / GDGoma
+-> Mcdowell Church / ACRroriz
+-> Mclaughlin Sargent / AmigosMontanha
+-> Mclean Reilly / ABCbraga
+-> Meagan Le / ACDRcrespos
+-> Merrill Maddox / ACRroriz
+-> Munoz Meyers / GDGoma
+-> Park Collier / SCBraga
+-> Peters Emerson / AmigosMontanha
+-> Petra Leon / EDViana
+-> Powers Torres / ACRroriz
+-> Pruitt Ochoa / AmigosMontanha
+-> Rebekah Mayer / ABCbraga
+-> Rhea Wyatt / AmigosMontanha
+-> Robbins Walsh / Vitoria
+-> Robles Nelson / AmigosMontanha
+-> Roth Booker / ACDRcrespos
+-> Sharon Bradley / AVCfamalicão
+-> Shaw Yang / SCBraga
+-> Shelton Ingram / ABCbraga
+-> Sheppard Greer / AVCfamalicão
+-> Sherman Lowery / AVCfamalicão
+-> Smith Noel / GDGoma
+-> Staci Jarvis / EDViana
+-> Stefanie Byrd / EDViana
+-> Stone Thomas / ACRroriz
+-> Tami Lawrence / AVCfamalicão
+-> Valeria Kelly / ACRroriz
+-> Velazquez Meyers / ACDRcrespos
+-> Vivian Mercado / AVCfamalicão
+-> Vivian Pope / ACRroriz
+-> Wagner Steele / EDViana
+-> Waters Dale / ABCbraga
+-> Welch Rosales / AmigosMontanha
+-> Wiley Stark / EDViana
+-> Woodard Rhodes / ABCbraga
+
+Numero de atletas nesta faixa etaria: 104
+
+
+[35-39] : 
+
+-> Anita Lyons / SCBraga
+-> Beck Stevenson / SCBraga
+-> Bowers Gilliam / AVCfamalicão
+-> Dana Morrison / ACRroriz
+-> Frank Bishop / Vitoria
+-> Hardin Mejia / Vitoria
+-> Hodge Maxwell / ACDRcrespos
+-> Kim Combs / SCBraga
+-> Lucia Bright / GDGoma
+-> Marsh Crosby / AVCfamalicão
+-> Miller Rojas / ABCbraga
+-> Price Hardin / SCBraga
+-> Tanisha Castro / ACDRcrespos
+-> Vang George / AVCfamalicão
+
+Numero de atletas nesta faixa etaria: 14
+
+
+------------------------------------------------

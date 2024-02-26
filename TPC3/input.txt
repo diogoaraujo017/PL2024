@@ -1,0 +1,79 @@
+Olá! Este é um texto complexo para testar o programa Somador on/off. Prepare-se para um desafio!
+
+Vamos começar com uma série de números e sequências de caracteres:
+
+12
+onion
+123
+abc
+-21
+3
+4
++5
+kd
+xyz
+6
+-7
+8
+foo
+-9
+10
+
+Agora, vamos ligar o somador com "ON" e continuar somando:
+
+11
+bar
+-12
+13
+baz
+14
+-15
+qux
+16
+16
+-17
+18
+19
+-20
+
+Vamos desligar o somador com "OFF". Não devemos mais somar números agora.
+
+Mas vamos ligar novamente com "on" e continuar:
+
+21
+22
+23
+-24
+25
+26
+27
+-28
+29
+30
+
+Aqui está o resultado parcial da soma até agora: 
+12 + 123 + (-21) + 3 + 4 + 5 + 6 + (-7) + 8 + (-9) + 10 + 11 + (-12) + 13 + 14 + (-15) + 16 + 16 + (-17) + 18 + 19 + (-20) = 244.
+
+Agora, desligamos novamente com "ofF".
+
+Vamos ligar uma vez mais com "on" e continuar:
+
+31
+32
+33
+-34
+35
+36
+37
+-38
+39
+40
+
+Aqui está o resultado parcial da soma até agora:
+244 + 21 + 22 + 23 + (-24) + 25 + 26 + 27 + (-28) + 29 + 30 = 385.
+
+E agora, vamos ver o resultado final:
+
+12 + 123 + (-21) + 3 + 4 + 5 + 6 + (-7) + 8 + (-9) + 10 + 11 + (-12) + 13 + 14 + (-15) + 16 + 16 + (-17) + 18 + 19 + (-20) + 21 + 22 + 23 + (-24) + 25 + 26 + 27 + (-28) + 29 + 30 = 629.
+
+Espero que este teste seja desafiador o suficiente para o seu programa! Boa sorte!

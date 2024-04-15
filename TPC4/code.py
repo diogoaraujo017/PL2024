@@ -15,9 +15,9 @@ tokens = (
 )
 
 # Regular expression rules for simple tokens
-t_SELECT = r'Select'
-t_FROM = r'From'
-t_WHERE = r'Where'
+t_SELECT = r'[Ss][Ee][Ll][Ee][Cc][Tt]'
+t_FROM = r'[Ff][Rr][Oo][Mm]'
+t_WHERE = r'[Ww][Hh][Ee][Rr][Ee]'
 
 t_INFO = r'\w+'
 
